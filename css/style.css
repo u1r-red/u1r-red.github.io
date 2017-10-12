@@ -456,3 +456,13 @@ figure {
 }
 
 /*# sourceMappingURL=style.css.map */
+.my-name {
+  font-size: xx-large;
+  font-weight: 400;
+  color: #fff;
+}
+h1 {
+  font-size: medium;
+  color: #fff;
+  margin-bottom: 0px;
+}
